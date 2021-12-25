@@ -11,7 +11,7 @@ public static void main(String[] args) {
  //loop starts from 2 because 0 and 1 are already printed    
  {    
   a3=a1+a2;    
-  System.out.print(" "+a3);    
+  System.out.println(" "+a3);    
   a1=a2;    
   a2=a3;    
  }    
